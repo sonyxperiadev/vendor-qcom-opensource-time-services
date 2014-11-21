@@ -42,7 +42,7 @@ typedef enum time_bases {
 	ATS_TOD,
 	ATS_USER,
 	ATS_SECURE,
-	ATS_RESERVED_1,
+	ATS_DRM,
 	ATS_RESERVED_2,
 	ATS_RESERVED_3,
 	ATS_GPS,
